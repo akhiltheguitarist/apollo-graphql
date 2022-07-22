@@ -1,0 +1,22 @@
+[{
+    "id": 1,
+    "title": "One",
+    "description": "One",
+    "day": "Monday",
+    "level": "1"
+},
+{
+    "id": 2,
+    "title": "Two",
+    "description": "Two",
+    "day": "Tuesday",
+    "level": "2"
+},
+{
+    "id": 3,
+    "title": "Three",
+    "description": "Three",
+    "day": "Wednesday",
+    "level": "3"
+}
+]
